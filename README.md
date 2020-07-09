@@ -1,4 +1,5 @@
-![donavon west](https://pbs.twimg.com/profile_banners/5413282/1569422125/1500x500)
+![animated](https://user-images.githubusercontent.com/887639/87050499-56aeb200-c1cc-11ea-8c2c-25d6a5ba82fe.gif)
+
 <!--
 **donavon/donavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
