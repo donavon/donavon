@@ -1,6 +1,6 @@
 ![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)
 
-- Follow me on [Twitter](https://dwe.st/t)
+- <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://dwe.st/t)
 - On [LinkedIn](https://dwe.st/li)
 - View my [resume](https://dwe.st/resume)
 
