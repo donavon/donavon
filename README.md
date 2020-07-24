@@ -1,8 +1,13 @@
 [![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
 
+- Seasoned Developer and Amatuer Designer
+- Stickers anyone? 👉 https://jsmerch.dev 👈
+- Staunch advocate for #CleanCode
+- #JavaScript and #ReactJS conference speaker
 - <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://dwe.st/t)
 - On [LinkedIn](https://dwe.st/li)
 - View my [resume](https://dwe.st/resume)
+- {...❤} #SpreadLove
 
 <!--
 **donavon/donavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
