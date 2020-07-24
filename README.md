@@ -1,4 +1,8 @@
-![animated](https://user-images.githubusercontent.com/887639/87050499-56aeb200-c1cc-11ea-8c2c-25d6a5ba82fe.gif)
+![animated](./img/readme.svg)
+
+- Follow me on [Twitter](https://dwe.st/t)
+- On [LinkedIn](https://dwe.st/li)
+- View my [resume](https://dwe.st/resume)
 
 <!--
 **donavon/donavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
