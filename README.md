@@ -4,10 +4,11 @@
 - Stickers anyone? 👉 https://jsmerch.dev 👈
 - Staunch advocate for #CleanCode
 - #JavaScript and #ReactJS conference speaker
+- Organizer for the [@useReactNYC](https://usereact.nyc/) Meetup group
 - <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://dwe.st/t)
 - On [LinkedIn](https://dwe.st/li)
 - View my [resume](https://dwe.st/resume)
-- {...❤} #SpreadLove
+- {...♥️} #SpreadLove
 
 <!--
 **donavon/donavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
