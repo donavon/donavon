@@ -1,4 +1,4 @@
-![animated](./img/readme.svg)
+![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)
 
 - Follow me on [Twitter](https://dwe.st/t)
 - On [LinkedIn](https://dwe.st/li)
