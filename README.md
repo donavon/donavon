@@ -1,6 +1,6 @@
 [![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
 
-- Seasoned Developer and Amatuer Designer
+- Seasoned Developer and Amateur Designer
 - Stickers anyone? 👉 https://jsmerch.dev 👈
 - Staunch advocate for #CleanCode
 - #JavaScript and #ReactJS conference speaker
